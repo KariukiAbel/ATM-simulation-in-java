@@ -19,7 +19,7 @@ public class BalanceInquiry extends Transaction {
         screen.displayMessageLine("Balance Information:");
         screen.displayMessage("-Available balance: ");
         screen.displayDollarAmount(availableBalance);
-        screen.displayMessage(" -Total Balance: ");
+        screen.displayMessage("\n -Total Balance: ");
         screen.displayDollarAmount(totalBalance);
         screen.displayMessageLine("");
     }

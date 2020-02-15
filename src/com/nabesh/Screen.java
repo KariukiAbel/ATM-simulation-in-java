@@ -6,7 +6,7 @@ public class Screen {
     }
 
     public void displayMessage(String s) {
-        System.out.println(s);
+        System.out.print(s);
     }
     public void displayDollarAmount(double amount){
         System.out.printf("$%,.2f", amount);
