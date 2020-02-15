@@ -24,20 +24,17 @@
       <file leaf-file-name="ATM.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nabesh/ATM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+            <state relative-caret-position="268">
+              <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Transaction.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/nabesh/Transaction.java">
+      <file leaf-file-name="BalanceInquiry.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nabesh/BalanceInquiry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-              <folding>
-                <element signature="e#225#226#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -62,10 +59,11 @@
         <option value="$PROJECT_DIR$/src/com/nabesh/DepositSlot.java" />
         <option value="$PROJECT_DIR$/src/com/nabesh/Main.java" />
         <option value="$PROJECT_DIR$/src/com/nabesh/CashDispenser.java" />
-        <option value="$PROJECT_DIR$/src/com/nabesh/ATM.java" />
         <option value="$PROJECT_DIR$/src/com/nabesh/Account.java" />
         <option value="$PROJECT_DIR$/src/com/nabesh/BankDataBase.java" />
         <option value="$PROJECT_DIR$/src/com/nabesh/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/com/nabesh/ATM.java" />
+        <option value="$PROJECT_DIR$/src/com/nabesh/BalanceInquiry.java" />
       </list>
     </option>
   </component>
@@ -176,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581767338397</updated>
-      <workItem from="1581767373200" duration="8592000" />
+      <workItem from="1581767373200" duration="9355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8592000" />
+    <option name="totallyTimeSpent" value="9355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1368" height="733" extended-state="6" />
@@ -234,21 +232,6 @@
             <element signature="e#153#154#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nabesh/Screen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -313,20 +296,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nabesh/ATM.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nabesh/Transaction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+        <state relative-caret-position="236">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nabesh/Transaction.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nabesh/ATM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="268">
+          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nabesh/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
-            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nabesh/BalanceInquiry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>

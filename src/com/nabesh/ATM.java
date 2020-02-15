@@ -83,12 +83,12 @@ public class ATM {
             case BALANCE_INQUIRY:
                 temp = new BalanceInquiry(currentAccountNumber, screen, bankDataBase);
                 break;
-            case WITHDRAW:
-                temp = new Withdraw(currentAccountNumber, screen, bankDataBase, keypad, cashDispenser);
-                break;
-            case DEPOSIT:
-                temp = new Deposit(currentAccountNumber, screen, bankDataBase, keypad, depositSlot);
-                break;
+//            case WITHDRAW:
+//                temp = new Withdraw(currentAccountNumber, screen, bankDataBase, keypad, cashDispenser);
+//                break;
+//            case DEPOSIT:
+//                temp = new Deposit(currentAccountNumber, screen, bankDataBase, keypad, depositSlot);
+//                break;
         }
         return temp;
     }
