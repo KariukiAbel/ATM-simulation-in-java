@@ -24,6 +24,7 @@ public class ATM {
             depositSlot = new DepositSlot();
             bankDataBase = new BankDataBase();
     }
+
     public void run(){
         while (true){
             while (!userAuthenticated){
@@ -91,7 +92,6 @@ public class ATM {
         }
         return temp;
     }
-
 
     //to display the main menu items and the selection made
     private int displayMainMenu() {
